@@ -8,3 +8,5 @@ I only added the decimal separator as an example, you'll have to add the , thous
 در کد مثال ایجاد شده
 vuejs
 * [DEMO](https://bo10x.csb.app) - Live demo project
+
+[To-use-the-project - استفاده از مثال](https://github.com/milladka/thousand-Separator-Vue-Inpu/wiki/To-use-the-project)

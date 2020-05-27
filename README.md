@@ -4,7 +4,7 @@ You can achieve the formatting by simply using a computed property with separate
 
 I only added the decimal separator as an example, you'll have to add the , thousand separator in the setter for your full functionality.
 
-# فرمت سه رقم جدا کردن مبلغ در جاوااسکریپت
+# فرمت سه رقم جدا کردن مبلغ در vuejs
 در کد مثال ایجاد شده
 vuejs
 * [DEMO](https://bo10x.csb.app) - Live demo project
